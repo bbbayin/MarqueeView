@@ -22,8 +22,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mTmallMarquee = (MarqueeView) findViewById(R.id.marquee);
         initData();
+        mTmallMarquee = (MarqueeView) findViewById(R.id.marquee);
         mTmallMarquee.setAdapter(new TmallAdapter(mTmallDataList));
         mTmallMarquee.setTimer(3000);
         mTmallMarquee.start();
