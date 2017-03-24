@@ -9,7 +9,7 @@
 
 ## gradle         
 
-`compile 'com.shaqcc:marqueelib:1.0.0'`          
+`compile 'com.shaqcc:marqueelib:0.0.1'`          
 
 
 ## Maven       
