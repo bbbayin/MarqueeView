@@ -9,17 +9,17 @@
 
 ## gradle         
 
-`compile 'com.shaqcc:app:1.0.0'`          
+`compile 'com.shaqcc:marqueelib:1.0.0'`          
 
 
 ## Maven       
 
-    <dependency>
-      <groupId>com.shaqcc</groupId>
-      <artifactId>app</artifactId>
-      <version>1.0.0</version>
-      <type>pom</type>
-    </dependency>       
+        <dependency>
+         <groupId>com.shaqcc</groupId>
+         <artifactId>marqueelib</artifactId>
+         <version>1.0.0</version>
+         <type>pom</type>
+        </dependency>      
     
 ## XML      
 
